@@ -1,2 +1,4 @@
-# mailchimpkt
- 
+# MailChimp Client
+
+
+unoffical and unfinished 
