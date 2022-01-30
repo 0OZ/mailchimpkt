@@ -1,10 +1,17 @@
 # MailChimp Client [![Publish package to GitHub Packages](https://github.com/0OZ/mailchimpkt/actions/workflows/publish.yml/badge.svg)](https://github.com/0OZ/mailchimpkt/actions/workflows/publish.yml)
 
-
 unoffical and unfinished 
 
-
 ---
+
+gradle:
+
+```kotlin
+dependencies {
+    implementation("dev.zwei:mailchimpkt:alpha-0.0.2")
+}
+
+```
 
 
 ```kotlin
