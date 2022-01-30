@@ -9,6 +9,7 @@ import dev.zwei.mailchimp.domain.mailChimp.apiObjects.members.TagsRequest
 import dev.zwei.mailchimp.domain.mailChimp.apiObjects.members.UpdateTag
 import dev.zwei.mailchimp.domain.mailChimp.apiObjects.mergeFields.MergeField
 import dev.zwei.mailchimp.domain.mailChimp.apiObjects.templates.Templates
+import dev.zwei.mailchimp.extension.toMD5
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.runBlocking
 
