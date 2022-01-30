@@ -1,4 +1,4 @@
-# MailChimp Client
+# MailChimp Client [![Publish package to GitHub Packages](https://github.com/0OZ/mailchimpkt/actions/workflows/publish.yml/badge.svg)](https://github.com/0OZ/mailchimpkt/actions/workflows/publish.yml)
 
 
 unoffical and unfinished 
